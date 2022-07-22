@@ -1,0 +1,21 @@
+.row-a{
+    padding:10px 10% 10% 10%;
+}
+.row-1{
+    padding-left: 60px;
+}
+.imf{
+    padding-left: 50px;
+}
+.ima{
+    padding-left: 25%;
+}
+.imh{
+    padding-left: 40px;
+}
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
